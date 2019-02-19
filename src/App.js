@@ -1,3 +1,4 @@
+// This branch has a custom image
 import React, { Component } from 'react';
 import logo from './homer-simpson.svg';
 import './App.css';
